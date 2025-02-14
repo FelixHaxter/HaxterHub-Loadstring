@@ -1,1 +1,2 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FelixHaxter/HaxterHub-Loadstring/refs/heads/main/The%20Rake",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FelixHaxter/HaxterHub-Loadstring/refs/heads/main/Mic%20Up",true))()
